@@ -1,5 +1,3 @@
----
-
 # Phase 1: Python Fundamentals
 
 ## Python Basics Part I (750 Exercises)
@@ -19,7 +17,7 @@
 * [ ] Advanced String Operations
 * [ ] Collections Basics
 * [ ] Practice Programs
-* [ ] Problem Solving
+* [ ] Problem-Solving
 * [ ] Complete Section
 
 ## Python Programming Puzzles (500 Exercises)
