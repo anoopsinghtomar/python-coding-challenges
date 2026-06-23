@@ -3,7 +3,7 @@
 # Project Structure
 
 ```text
-code-with-python/
+python-coding-challenges/
 │
 ├── README.md
 ├── PYTHON_LEARNING_ROADMAP.md
